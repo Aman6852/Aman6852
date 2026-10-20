@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on : Enhancing on my coding skills and building projects<br>🌱 Currently learning : HTML , CSS , Java Script <br>📫 How to reach me :  amanyadav2480680@gmail.com<br>
+🔭 Currently working on : Enhancing on my coding skills and building projects<br>🌱 Currently learning : HTML , CSS , Java Script , Java <br>📫 How to reach me :  amanyadav2480680@gmail.com<br>
 
 
 # 💻 Tech Stack:
